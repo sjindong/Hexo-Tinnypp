@@ -1,7 +1,7 @@
 ---
 title: 个人网址收藏
 time: 2016-03-30
-tag: 
+tag:
 ---
 
 ### 实用工具  
@@ -9,6 +9,7 @@ tag:
 
 
 ### 功能网址     
+1.  [多说](http://sjindong.duoshuo.com/admin/tools/)
 1.  [使用Hexo搭建博客（四），博客的部件和插件](http://www.jianshu.com/p/739bf1305e66)
 1.  [RSS订阅 让你的博客集成RSS功能](http://blog.csdn.net/justflyhigh/article/details/7611648)
 1.  [Android权限列表permission说明 （一）](http://www.cnblogs.com/fly_binbin/archive/2010/12/10/1902265.html)
@@ -25,7 +26,7 @@ tag:
 
 ### 原理讲解  
 1.  [小探Android应用层原理--《Android开发精要》](http://brainku.github.io/2014/10/01/reading-android-kaifa-jingyao/)  
-1.  [六款值得推荐的android（安卓）开源框架简介](http://www.jb51.net/article/51052.htm ) 
+1.  [六款值得推荐的android（安卓）开源框架简介](http://www.jb51.net/article/51052.htm )
 1.  [Android入门：多个Activity之间切换原理介绍](http://blog.csdn.net/xiazdong/article/details/7749261)
 1.  [Android中UID机制和共享进程](http://blog.csdn.net/coding_glacier/article/details/8230159)
 1.  [Git详解之三 Git分支](http://www.open-open.com/lib/view/open1328069889514.html)
