@@ -1,3 +1,4 @@
+cp -r /home/sjd/code/backup/public/. /home/sjd/code/Hexo-Tinnypp/.
 git add node_modules
 git add scaffolds
 git add source
