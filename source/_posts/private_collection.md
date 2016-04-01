@@ -36,6 +36,18 @@ tag:
 1.   [好用的Markdown编辑器一览](http://www.williamlong.info/archives/4319.html )   
 1.   [ATOM使用教程--极客网](http://wiki.jikexueyuan.com/project/atom/ )    
 
+### 编程挑战
+1.  [Project Euler](https://projecteuler.net/archives)是一个具有挑战性的不仅仅需要具备数学能力的“数学/计算机编程”问题集合。数学方面的知识可以帮助你获得优雅而高效的解决方案，与此同时，计算机应用和编程技巧也不可或缺。     
+2.  [The Python Challenge](http://www.pythonchallenge.com/) 专门针对学习python语言的一系列程序设计挑战。    
+3.  [Ruby Quiz](http://rubyquiz.com/)    
+4.  [UVa Online Judege](https://uva.onlinejudge.org/)    
+5.  [Sphere Online Judge](http://www.spoj.com/)    
+6.  [C Puzzles]()关于c的常见陷阱和常犯错误    
+7.  [Facebook Puzzles]()    
+8.  [Google Code Jam]()定期的编程比赛    
+9.  [Microsoft Interview Questions]()    
+10.  [wu:riddles]()数百个具有挑战的逻辑谜题    
+
 ### 资源   
 1.  [学习资源Node.js](https://github.com/nswbmw/N-blog/issues )  
 1.  [电子工程世界论坛 （主要看个嵌入式系统）](http://bbs.eeworld.com.cn/forum-131-1.html)
