@@ -6,6 +6,7 @@ tag:
 
 ### 实用工具  
 1.  [在线工具---有时间戳转换工具](http://tool.lu)
+2.  [在线API文档--DevDocs](http://devdocs.io/news)
 
 
 ### 功能网址     
